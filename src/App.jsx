@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h2>Hola desde TriviaGarden</h2>
+      <h2>Nuevo trivia. 2.0</h2>
     </>
   )
 }
