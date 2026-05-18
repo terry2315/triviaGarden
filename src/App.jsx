@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h2>Trivia Garden. Tu nueva y grandiosa app 2026, 2027, 2028. Adelante seremos los mejores.
-        GardenSoft Legaras a la sima😊
+        GardenSoft Llegaras a la sima😊
       </h2>
     </>
   )
